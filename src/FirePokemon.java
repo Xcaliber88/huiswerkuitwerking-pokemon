@@ -56,7 +56,7 @@ public class FirePokemon extends Pokemon{
         System.out.println(getName() + " has the ability to throw flames as far as " + fireRange + " meters for " + fireDuration + " minutes.");
     }
     public void pyroBall(){
-        System.out.println(getName() + " has the ability to launch pyro balls thru its " + fireMode + " and it has a strength of " + fireStrength + " Celsius.");
+        System.out.println(getName() + " has the ability to launch pyro balls thru its " + fireMode + " and it reaches a temperature of " + fireStrength + " Celsius.");
 
     }
 }
