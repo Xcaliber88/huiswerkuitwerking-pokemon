@@ -32,7 +32,7 @@ public class Pokemon {
     public Pokemon(String name, Integer hp){
         this.name = name;
         this.hp  =hp;
-        System.out.println(" I have summoned a Pokemon and his name is "+ name + ", it has a HP of: "+ hp);
+        System.out.println("I have summoned a Pokemon and his name is "+ name + ", it has a HP of: "+ hp);
     }
 
     // Methode
